@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "71fa9e0bf5f07441",
+    "type": "split",
+    "children": [
+      {
+        "id": "af75bf951c14c766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67b60e227f55665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vandt Lore/Marches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marches"
+            }
+          },
+          {
+            "id": "dabfaac82adec373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Adventure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Adventure"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3afdedaa82564322",
+    "type": "split",
+    "children": [
+      {
+        "id": "0003bde77aeb1440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601f1f0428809517",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17a48800f2c9f65f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1acc4800d26375b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.50961303710938
+  },
+  "right": {
+    "id": "352e700ee2133f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cf22c60be473d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fbf2aa4f66b5b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Adventure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Adventure"
+            }
+          },
+          {
+            "id": "bc1831f48d9d8bac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/Stats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stats"
+            }
+          },
+          {
+            "id": "42db03b907936a39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1f6d98d4f0d3eb6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "643eb5d118ebc845",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules/Stats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stats"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dabfaac82adec373",
+  "lastOpenFiles": [
+    "The Local Area/Barcomb.md",
+    "Vandt Lore/Marches.md",
+    "Vandt Lore/States/Anthea.md",
+    "Vandt Lore/States/Mistveil.md",
+    "Vandt Lore/States/Gallant.md",
+    "Vandt Lore/Artifacts/Magic Swords.md",
+    "Vandt Lore/States",
+    "Vandt Lore/Artifacts/The Moon-Glass Blade.md",
+    "Vandt Lore/Artifacts/Heartstealer.md",
+    "Vandt Lore/Artifacts/The Sword of Flowers.md",
+    "Vandt Lore/Artifacts",
+    "The Adventure.md",
+    "Villains.md",
+    "Vandt Lore/Bronzewood Company.md",
+    "Vandt Lore/States/Old Empire.md",
+    "Vandt Lore",
+    "The Party.md",
+    "The Local Area/Biggest Rat Diplomacy.md",
+    "2026-03-26.md",
+    "Untitled.canvas",
+    "Rules/5 Room Dungeon.md",
+    "Untitled.md",
+    "General.md",
+    "The Bad Guys/Pale Fist.md",
+    "Pictures/Pasted image 20260326000642.png",
+    "Discord Stuff",
+    "Pictures/Pasted image 20260326000356.png",
+    "Pictures/Pasted image 20260325235603.png",
+    "Pictures/Pasted image 20260325233021.png",
+    "Discord Stuff/Discord Main Lore.md",
+    "Rules/Stats.md",
+    "Rules/Skills.md",
+    "Rules/Backgrounds.md",
+    "Roll20 Macros.md",
+    "Rules/Vandt Ancestries.md",
+    "Pictures",
+    "Gemini_Generated_Image_1e9rkt1e9rkt1e9r.png",
+    "Pictures/Bronzewood Company Icon.png",
+    "Pasted image 20260323104153.png",
+    "Rules",
+    "Nimble RAW",
+    "Nimble Vandt",
+    "The Local Area/The Marches",
+    "The Local Area/The Wastes"
+  ]
+}

@@ -1,0 +1,1 @@
+The Old Empire refers to the singular state that used to rule over the whole supercontinent of Vandt. It has not existed for hundreds of years, but the common language (called the Imperial Tongue, or just Imperial) comes from this long dead empire.

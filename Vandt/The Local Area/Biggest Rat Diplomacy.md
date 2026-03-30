@@ -1,0 +1,1 @@
+This refers to the idea within a structure that the one in charge is the strongest or toughest. Think how the Ork who's in charge in 40k is the one who is the biggest, or has the biggest guns or mech, which by that virtue makes them the biggest.

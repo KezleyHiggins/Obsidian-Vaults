@@ -1,0 +1,1 @@
+Vandt is the name of the super continent that the campaign takes place in.

@@ -1,0 +1,1 @@
+A Freebooter Caravan refers to stateless groups of mercenaries who live not in one defined place but as constantly travelling people in a caravan. 
