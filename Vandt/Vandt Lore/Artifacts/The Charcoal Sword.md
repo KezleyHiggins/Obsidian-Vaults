@@ -1,0 +1,2 @@
+
+Was once a bigly cool fire based sword, but at some point when one of its wielders had to dip into its power to try and do something heroic, it consumed the fire and now the sword is just charcoal. It can catch on fire and is still magical, but it's turned into more of a neutral blade rather than a outright good aligned one.

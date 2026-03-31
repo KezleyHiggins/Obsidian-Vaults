@@ -1,0 +1,10 @@
+{
+  "progress-clocks:open-panel": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
+}

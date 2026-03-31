@@ -1,0 +1,2 @@
+
+This sword is wielded by the Star Knight. When peering through the blade, it shows whatever the stars are on the other side of the blade, including stars and gods that are usually unperceivable on Vandt and/or without a fancy scope.

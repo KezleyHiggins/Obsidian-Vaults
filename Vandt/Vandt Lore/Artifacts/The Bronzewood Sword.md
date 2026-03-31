@@ -1,0 +1,2 @@
+
+Not too sure on what the lore for this should be, but the idea of a magical sword carved from Bronzewood? Would also be interesting if it's entirely separated from the company in terms of origin, so convincing the sword to stay within the company the whole time might be difficult?

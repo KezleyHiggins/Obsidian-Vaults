@@ -23,7 +23,7 @@ Was always sort of trained in the blade and once they dropped out they saw it th
 
 **Threads:**
 - Former co-student now a proper wizard?
-- Old caravaners judging them for picking the Bronzewood Company?
+- Old caravanners judging them for picking the Bronzewood Company?
 ### Jigurd | Skint
 Ratfolk Cheat
 **Background:** Altan Alchemist

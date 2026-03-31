@@ -3,7 +3,7 @@ The world map is split into two halves. One is the [[Wastes]] which contains [[G
 
 The game is going to start in a village that is centered between Mistveil and Gallant. This location is intended to allow the players to get an introduction to each of the three main factions via a village that has explicitly (through the influence of the [[Bronzewood Company]]) been allowed to stay neutral.
 
-The village's name is [[Barcomb]]. It has a [[Bronzewood|Bronzewood Tree]] and has strong ties with the [[Bronzewood Company]], or at least strong enough for the company to answer their call for aid when it is made.
+The village's name is [[Barcombe]]. It has a [[Bronzewood|Bronzewood Tree]] and has strong ties with the [[Bronzewood Company]], or at least strong enough for the company to answer their call for aid when it is made.
 
 ### The Preamble
 

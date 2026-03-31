@@ -1,7 +1,7 @@
 Link to [[General]], [[The Party]]
 # Heart of the Marches
 
-This adventure is taking place in [[Barcomb]] initially, though may move further afield depending on how things go with the party. The trio of heroes are being sent to the village explicitly to save it from its troubles while making some coin. 
+This adventure is taking place in [[Barcombe]] initially, though may move further afield depending on how things go with the party. The trio of heroes are being sent to the village explicitly to save it from its troubles while making some coin. 
 
 This type of adventure should use these kinds of beats:
 - Friendly, and useful, local NPCs
@@ -22,23 +22,18 @@ This adventure is going to be split into three separate sections, the first bein
 
 ###### Who is the BBEG?
 
-The BBEG is actually the sword [[Heartstealer]], who has been calling to [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and has convinced him that if he just takes the blade he will be able to take power over the nearby village.
+The BBEG is actually the sword [[The Heartstealer]], who has been calling to [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and has convinced him that if he just takes the blade he will be able to take power over the nearby village.
 
-###### Levels 1 - 2
+So the BBEG is [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and [[The Heartstealer]] mixed into one but whether the PCs discover this or indeed even analyze that side of it is up to them. 
 
-The party will face Kobolds in the forest (probably) and also some inside of the initial cave that they're occupying. The cave will be a hide-away they're using in-between bigger jobs, but something inside there will point them to the main place. 
+###### What is their plan?
 
-The cave is going to be a [[5 Room Dungeon]].
+The plan is that they will seize the town as soon as possible, and get control of the Manticore. These are two separate causes that will feed into each other. Either they will get the town and use its resources to feed into claiming the Manticore, or the Manticore will be the weapon used to seize the town.
 
-***By this point they will be level 2.***
+# Actual Play
 
-They then will return to the town to lick their wounds and get stuff prepared to go and face the Kobolds outright. They should be able to figure out that if you can take down the kobold chief, the tribe will scatter and leave the area. The bounty they're following will be paid out for the initial kobolds, and a new one for the chief's head will be given.
+The players are going to be introduced to two initial quest hooks that will help them go along with what their next steps are. 
 
-***The party will need to have access to healing items and a priest.***
+**The first** is that there is a local goblin tribe that has *mostly* been peaceful the past ten or so years, but now has been really aggressive. There have been attacks on the walls, and killed merchants or other people leaving the town, that they have found the bodies or remains of more than anything else. What they don't know is that the **actual problem** is that the Deadscale Kobolds have been taking them on in order to claim the territory.
 
-This will lead them to main dungeon-delve and the All-Eater boss-fight.
-
-
-[[Villains#Ser Byron Blackheart|Ser Byron 'Blackheart']] is the leader of the band of outlaws called the Heartless. 
-
-
+**The second** is that the Bronzewood Tree has had multiple branches broken off and taken. This is evidenced by the black sap that's dripped on the ground (and the wounds on the tree). No one in the village knows how it happened, but obviously its recent, and furthermore no one in the town even has the means to really work with the Bronzewood since it requires enchanted tools to manage beyond just breaking. 
