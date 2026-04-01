@@ -8,6 +8,7 @@ This relationship grew to include the Company leveraging this relationship to ha
 
 ##### Important NPCs
 
+**Mayor Hollister**, Mayor 
 **Ser Castimir**, Gallant sheriff of Barcombe 
 **Richter**, local priest
 **Nimneri**, Altan Alchemist
