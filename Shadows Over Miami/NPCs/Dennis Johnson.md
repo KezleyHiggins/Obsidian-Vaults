@@ -1,0 +1,1 @@
+Dennis Johnson (Elza’s brother) is an accountant but his customers are very suspect, but is a nerdy accountant. Is aware of the Supernatural.

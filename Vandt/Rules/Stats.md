@@ -2,14 +2,14 @@ Heroes have 4 stats that impact their effectiveness in various tasks: 2 Key Stat
 
 **KEY.**  When an ability or spell references “KEY,” use one of your Key Stats. If a stat is listed before a die roll, roll a number of dice equal to the stat. For example, “WIL d8” means that if your WIL is 2, you roll 2d8 (two eight-sided dice).
 
-**Strength (STR).** 
+# Strength (STR). 
 Your raw physical power and resilience, endurance, and resistance to harm. Affects STR weapon damage, resistance to Wounds, HP recovery, Concentration, STR saves, carrying capacity, Grappling, and the Might skill.
 
-**Dexterity (DEX).** 
+# Dexterity (DEX). 
 Your agility, reflexes, and precision with blades or bows. Affects DEX weapon damage, Initiative, DEX saves, Grappling, and can contribute to Armor, as well as the Stealth and Finesse skills.
 
-**Intelligence (INT).** 
+# Intelligence (INT). 
 Your Intelligence reflects knowledge and reasoning across fields like the arcane, tactics, or street smarts. Affects languages, spellcasting, use of wands, spell scrolls, INT saves, as well as the Arcana, Examination, and Lore skills.
 
-**Will (WIL).** 
+# Will (WIL). 
 Your force of personality, courage, and wisdom. Will shapes your interactions with both nature and society. Affects spellcasting and WIL saves, as well as the Insight, Influence, Naturecraft, and Perception skills.
