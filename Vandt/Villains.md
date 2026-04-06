@@ -1,4 +1,4 @@
-
+#Barcombe #HotM
 #### Chief Arkir the 'All-Eater'
 
 Chief Arkir is a kobold that has grown to the size of an Ogre. He is not terribly smart, but is fiercely loyal and truly believes that his peoples' best chances at getting everything they want (read: all the food) is by taking this village.

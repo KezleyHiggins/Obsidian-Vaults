@@ -1,3 +1,5 @@
+#Barcombe #HotM
+
 ![[Bronzewood Company Icon.png|116]]
 
 The Bronzewood Company is an ancient [[Freebooter Caravan]] that has a reputation for being good at their jobs, getting involved in other caravan's business too often and perceived as breaking tradition as far as who they let join.

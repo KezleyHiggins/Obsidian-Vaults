@@ -51,11 +51,11 @@ When you want to avoid something bad happening to you! Each class has one save t
 
 ### Field Rest: Catch Breath
 Requires at least 10 minutes to tend to your injuries. Expend any number of Hit Dice one at a time (roll them and add your [[Stats#Strength (STR).|STR]] to each), and regain that many HP.
-
 ### Field Rest: Make Camp
-
 If you rest for at least 8 hours with food and sleep, take the maximum value for each Hit Die you expend instead of rolling. Add your [[Stats#Strength (STR).|STR]] to each Hit Die as usual.
-
 ### Safe Rest
-
 Resting in a safe location designated by your GM, typically lodging at an inn overnight. Camping in the open wilderness or in a dungeon is not sufficient for gaining the benefits of a Safe Rest. After a Safe Rest, heroes recover all of their HP, Hit Dice, mana (and other class-specific resources), and heal 1 Wound.
+
+# Conditions Reference
+
+![[Conditions.png]]

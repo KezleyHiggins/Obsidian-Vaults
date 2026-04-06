@@ -1,4 +1,4 @@
-
+#GoodnightCalifornia
 ### The Heroes
 
 #### Anchal Lala / Kali
@@ -61,7 +61,7 @@ Initially selected by Director Lane for the purpose of being able to contain Kal
 
 His destiny double is [[Bluebolt]], who later became wrapped up in the King in Yellow’s plans, but his two allies - the [[Mayweather Mystic]] and [[Nightshade]] - became Matt’s as well. His actual double in this dimension, however, did not give him an initial warm welcome, though they had evened out towards the end of the campaign.
 
-The greatest incident for Matt Cooper, and what he would be going down in the history of V&T for, would be his efforts in facing [[White Flag]]. In their first engagement, Matt Cooper took his hand and called in his [[Other Earther]] backup to end the fight. White Flag then used his power to try and have others take Matt Cooper’s hand in return, but only succeeded in painful scarring it. 
+The greatest incident for Matt Cooper, and what he would be going down in the history of V&T for, would be his efforts in facing [[White Flag]]. In their first engagement, Matt Cooper took his hand and called in his [[Other Earthers]] backup to end the fight. White Flag then used his power to try and have others take Matt Cooper’s hand in return, but only succeeded in painful scarring it. 
 
 In their final confrontation, they both struck blows upon the other - and White Flag did finally succeed in taking Matt’s hand - that would be the only victory the fallen hero would be given. As after Matt rose, he took down White Flag once and for all, leaving his acidic blood pooling body to melt into the ground beneath him. In the battle with the King in Yellow himself, Matt caused many a wound upon the cosmic being and suffered even more himself.
 

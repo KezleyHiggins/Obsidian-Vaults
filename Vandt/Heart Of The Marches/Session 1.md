@@ -1,3 +1,4 @@
+#Barcombe #HotM
 
 **Date played:** 2026-04-01
 
@@ -13,7 +14,6 @@ Currently there's a thing saying that they'll get 5gp per goblin ear.
 The party then continued out into the field of combat, finding a scene of three kobolds eating a goblin. There were two goblins watching but were clearly mind controlled. The party killed them all, and then interrogated one which revealed [[Villains#Chief Arkir the 'All-Eater'|The All Eater]]  and also gave them an indication of their base.
 
 The base is a ruin that was thought to be too difficult for the Goblins to figure out how to get inside, and is what must be prepped for next session. They fought the guardian, which was a big spider statue that had some loot inside of it.
-
 
 **Misc Lore:**
 * Deserts have things called Turkey-Eagles, at least where Skint is from

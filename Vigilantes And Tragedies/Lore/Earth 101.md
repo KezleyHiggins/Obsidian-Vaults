@@ -1,0 +1,2 @@
+
+This is the canonical dimension that [[Vigilantes & Tragedies]] takes place in. It is unique for it being a place that other realities can teleport INTO, but they cannot leave. This was done as a way to protect it from the [[Zombie Virus]] since if it did come to this reality, it would be doomed to suffer a horrific slow death of starvation.

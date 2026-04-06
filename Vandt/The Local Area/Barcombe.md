@@ -1,3 +1,5 @@
+#Barcombe #HotM
+
  Barcombe is a village to the north of Mistveil and Gallant, though it is unaligned due to its connection with the Bronzewood Company. 
  
 ###### History

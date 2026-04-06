@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af75bf951c14c766",
+        "id": "53bc4f4f4e3b1c97",
         "type": "tabs",
         "children": [
           {
-            "id": "204ac3c3aef259d3",
+            "id": "f68f08bd2f32f1eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Local Area/Barcombe.md",
+                "file": "Heart Of The Marches/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barcombe"
-            }
-          },
-          {
-            "id": "99131836943ebc80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Quick Reference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quick Reference"
-            }
-          },
-          {
-            "id": "29f059722690cf77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Stats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Session 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,52 +184,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "99131836943ebc80",
+  "active": "f68f08bd2f32f1eb",
   "lastOpenFiles": [
-    "Rules/Stats.md",
-    "Rules/Quick Reference.md",
-    "Heart Of The Marches/Session 1.md",
-    "Rules/Skills.md",
+    "Heart Of The Marches/Session 2.md",
+    "The Local Area/Tomb Of The Hilltop Harriers.md",
+    "The Local Area/Biggest Rat Diplomacy.md",
     "The Local Area/Barcombe.md",
-    "General.md",
+    "The Local Area/The Bad Guys/Pale Fist.md",
+    "The Local Area/The Bad Guys/Bandit Warband.md",
+    "Vandt Lore/Marches.md",
     "The Adventure.md",
+    "Heart Of The Marches/Session 1.md",
+    "The Party.md",
+    "The Local Area/The Bad Guys/Goblin Warband.md",
+    "The Local Area/The Bad Guys/Deadscale Warband.md",
+    "Vandt Lore/Bronzewood Company.md",
+    "Villains.md",
+    "Untitled 1.canvas",
+    "2026-04-03.md",
+    "Rules/5 Room Dungeon.md",
+    "Untitled.canvas",
+    "General.md",
+    "Stuff/Discord Stuff/Discord Main Lore.md",
+    "Rules/Five Room Dungeon.md",
+    "Untitled.base",
+    "Rules/Quick Reference.md",
+    "Stuff/Pictures/Conditions.png",
+    "Rules/Backgrounds.md",
+    "Rules/Stats.md",
+    "Rules/Skills.md",
     "Stuff",
     "Heart Of The Marches",
-    "The Party.md",
-    "Villains.md",
     "Vandt Lore/Artifacts/Magic Swords.md",
     "Vandt Lore/Artifacts/The Broken Blade.md",
     "Vandt Lore/Artifacts/The Silvered Sword.md",
-    "Vandt Lore/Artifacts/The Charcoal Sword.md",
-    "Vandt Lore/Artifacts/The Heartstealer.md",
     "Stuff/Pictures/Kobold Stats.png",
     "Stuff/Pictures/Thorn Stats.png",
     "Stuff/Pictures/Pudge Stats.png",
     "Stuff/Pictures/Bandit Stats.png",
     "Stuff/Pictures/Bronzewood Company Icon.png",
     "Stuff/Pictures/Heartstealer.png",
-    "Vandt Lore/Artifacts/The Maw Of The Empire.md",
-    "Vandt Lore/Artifacts/The Moon-Glass Blade.md",
-    "Vandt Lore/Artifacts/The Bronzewood Sword.md",
-    "Vandt Lore/Marches.md",
-    "Vandt Lore/Bronzewood.md",
-    "Vandt Lore/Nations/Anthea.md",
-    "Vandt Lore/Nations/Mistveil.md",
-    "Vandt Lore/Nations/Gallant.md",
     "Vandt Lore/Nations",
-    "Vandt Lore/Artifacts/The Sword of Flowers.md",
     "Vandt Lore/Artifacts",
-    "Vandt Lore/Bronzewood Company.md",
-    "Vandt Lore/Nations/Old Empire.md",
     "Vandt Lore",
-    "The Local Area/Biggest Rat Diplomacy.md",
-    "Untitled.canvas",
     "Stuff/Discord Stuff",
     "Stuff/Pictures",
     "Gemini_Generated_Image_1e9rkt1e9rkt1e9r.png",
     "Pasted image 20260323104153.png",
     "Rules",
-    "Stuff/Nimble RAW",
-    "Nimble Vandt"
+    "Stuff/Nimble RAW"
   ]
 }
