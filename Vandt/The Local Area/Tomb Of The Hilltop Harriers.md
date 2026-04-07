@@ -52,7 +52,7 @@ Room Three is a central mausoleum for dwarves that has many different places for
 
 #### Room Four - Climax, Big Battle, or Conflict
 
-This room will feature a battle with a full kobold battalion, and also the only second in command that the [[Villains#Chief Arkir the 'All-Eater'|All-Eater]] has should lead this battle and be killed by the PCs, as that's going to be a useful thing for them to have a more proper adversarial thing with the [[Villains#Chief Arkir the 'All-Eater'|All-Eater]].
+This room will feature a battle with a full kobold battalion, and also the only second in command that the [[HotM - Villains#Chief Arkir the 'All-Eater'|All-Eater]] has should lead this battle and be killed by the PCs, as that's going to be a useful thing for them to have a more proper adversarial thing with the [[HotM - Villains#Chief Arkir the 'All-Eater'|All-Eater]].
 
 So this would be a full Kobolded up section of duderinos
 #### Room Five - Reward, Revelation, Plot Twist

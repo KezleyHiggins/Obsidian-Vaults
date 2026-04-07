@@ -16,17 +16,17 @@ This type of adventure should use these kinds of beats:
 
 ### The Plot
 
-The party is showing up to that is - unknowingly - about to be besieged by a group of bandits called the [[Villains#The Heartless|Heartless]] and their vassal tribe of [[Villains#The Deadscale Tribe|Kobolds]]. The infrastructure for this has been ongoing for sometime as [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] knows that they will only have one real attempt at this before some other power intervenes before they can ready themselves to hold what they have.
+The party is showing up to that is - unknowingly - about to be besieged by a group of bandits called the [[HotM - Villains#The Heartless|Heartless]] and their vassal tribe of [[HotM - Villains#The Deadscale Tribe|Kobolds]]. The infrastructure for this has been ongoing for sometime as [[HotM - Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] knows that they will only have one real attempt at this before some other power intervenes before they can ready themselves to hold what they have.
 
 The party will arrive in the town and be given the obvious first goal of looking into the Kobolds. They're something that all parties would see as conquerable for them, and they're the most overt and (presently) the main worry. They also are suspected of taking branches from the [[Bronzewood|Bronzewood Tree]]. They have not, but the party won't know that until they find their cave.
 
-This adventure is going to be split into three separate sections, the first being the [[Villains#The Deadscale Tribe|Deadscale Kobolds]], the second the [[Villains#The Heartless|Heartless]] and the third being the Manticore itself. The third section will be largely defined by whether or not the party is able to stop [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] from executing his plan to seize the beast.
+This adventure is going to be split into three separate sections, the first being the [[HotM - Villains#The Deadscale Tribe|Deadscale Kobolds]], the second the [[HotM - Villains#The Heartless|Heartless]] and the third being the Manticore itself. The third section will be largely defined by whether or not the party is able to stop [[HotM - Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] from executing his plan to seize the beast.
 
 ###### Who is the BBEG?
 
-The BBEG is actually the sword [[The Heartstealer]], who has been calling to [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and has convinced him that if he just takes the blade he will be able to take power over the nearby village.
+The BBEG is actually the sword [[The Heartstealer]], who has been calling to [[HotM - Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and has convinced him that if he just takes the blade he will be able to take power over the nearby village.
 
-So the BBEG is [[Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and [[The Heartstealer]] mixed into one but whether the PCs discover this or indeed even analyze that side of it is up to them. 
+So the BBEG is [[HotM - Villains#Ser Byron 'Blackheart'|Ser Byron 'Blackheart']] and [[The Heartstealer]] mixed into one but whether the PCs discover this or indeed even analyze that side of it is up to them. 
 
 ###### What is their plan?
 
