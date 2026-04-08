@@ -6,16 +6,17 @@
 
 This is the tomb created for *the* group of soldiers who defended the nearby Dwarven fortress. The fortress was small, so they had just one big group of soldiers who had a long history of the dangers they had bested in the region. A lot of what is written down is embellished, but has some shreds of truth, and all tactfully avoid saying whether the "win" shown actually is them smiting the enemy or just getting them to flee.
 #### Magic Item Ideas
-
-###### Manticore 'Tamer'
+###### Manticore 'Tamer' 
+![[crossbow.png|30]]
 Handheld Ballista 1d20+DEX Piercing 2-handed, Load: 2 actions, Range 8 (Req. 2 STR)
-Bolts fired from the Ballista can never miss a Manticore, has a magical compass that points you in the direction of the closest one.
+Bolts fired from the Ballista can never miss a Manticore and attacks against Manticores are done with advantage. The body has a magical compass that points you in the direction of the closest Manticore.
 ###### Hammer of the Harriers
+![[flat-hammer.png|30]]
 Pole Hammer 1d10+STR Bludgeoning 2-handed, Reach 2, Vicious
-Engraved with tales of the enemies that it has slain.
+Engraved with tales of the enemies that it has slain, and magically incorporates new creatures into the engravings.
 ###### Shield of the Harriers
+![[dragon-shield.png|30]]
 Adamantine Shield. Very light to hold, no STR requirement and 2 armour. However, if you defend against a critical hit, all crit damage is ignored.
-
 #### Room One - Entrance & Guardian
 
 The entrance to this room has already been explored by the PCs, it has featured engravings on the wall that have been described to have large stories of them felling giant and dangerous beasts but they were unable to really reference who these dwarves were since the accolades they were claiming from the engravings were huge.
