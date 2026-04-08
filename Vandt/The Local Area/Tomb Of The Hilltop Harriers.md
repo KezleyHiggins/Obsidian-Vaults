@@ -13,7 +13,7 @@ Bolts fired from the Ballista can never miss a Manticore and attacks against Man
 ###### Hammer of the Harriers
 ![[flat-hammer.png|30]]
 Pole Hammer 1d10+STR Bludgeoning 2-handed, Reach 2, Vicious
-Engraved with tales of the enemies that it has slain, and magically incorporates new creatures into the engravings.
+Engraved with tales of the enemies that it has slain, and magically incorporates new creatures into the engravings. Gives advantage on influence checks if you're bragging about your exploits.
 ###### Shield of the Harriers
 ![[dragon-shield.png|30]]
 Adamantine Shield. Very light to hold, no STR requirement and 2 armour. However, if you defend against a critical hit, all crit damage is ignored.

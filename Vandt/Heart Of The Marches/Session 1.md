@@ -15,6 +15,8 @@ The party then continued out into the field of combat, finding a scene of three 
 
 The base is a ruin that was thought to be too difficult for the Goblins to figure out how to get inside, and is what must be prepped for next session. They fought the guardian, which was a big spider statue that had some loot inside of it.
 
+**The party leveled up to level 2.**
+
 **Misc Lore:**
 * Deserts have things called Turkey-Eagles, at least where Skint is from
 * The dwarves who carved the stuff in the ruins claim to have killed great beasts
