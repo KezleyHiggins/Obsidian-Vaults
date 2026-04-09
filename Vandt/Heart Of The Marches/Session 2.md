@@ -10,13 +10,17 @@ He notes down the locations of the maps on the place.
 
 They have purchased a mule, and they bought manacles. They have taken a Safe Rest.
 
-**What are they doing next session?**
+###### Time passed: 
+
+the rest of the day from session one (they slept in the dungeon) and they will do a safe rest inside of the town, so two days have passed since the campaign started.
+
+###### What are they doing next session?
 
 - Options they feel are make sure they got everything in the forest, or search the fort
 	- Taking a land route to the fort
 - They're not fishing for companions before they leave.
 
-**Misc:**
+###### Misc:
 
 - 4 - 5 on d12 is Manticore event on random things
 - Town has prep to deter Manticore
