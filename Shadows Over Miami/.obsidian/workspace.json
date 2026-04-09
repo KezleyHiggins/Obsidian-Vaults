@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "322f66b1e688c9c4",
+            "id": "292eb481d366bf17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Harry Johnson.md",
+                "file": "Toni's Schemes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harry Johnson"
+              "title": "Toni's Schemes"
+            }
+          },
+          {
+            "id": "760009cc8055fc30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Santiago.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Santiago"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.50961303710938
   },
   "right": {
     "id": "00bc2841b2961714",
@@ -185,17 +199,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline.md",
+                "file": "Toni's Schemes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Timeline"
+              "title": "Outline of Toni's Schemes"
             }
           },
           {
-            "id": "9835e40327cb99dc",
+            "id": "9edca32ee6f5900e",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -219,8 +233,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_49b94b6a98eb",
-                "child": "ID_b92a0939a9d8"
+                "id": "ID_d978ba0beaeb",
+                "child": "ID_caf95a68184a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -230,18 +244,18 @@
         "currentTab": 5
       },
       {
-        "id": "bb9af318cd57a955",
+        "id": "f7b7b7ea451653e0",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1d38d97a7b24a9",
+            "id": "e1397f29617cce58",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_aac8aae80838",
-                "id": "ID_b92a0939a9d8",
-                "parent": "ID_49b94b6a98eb"
+                "id": "ID_caf95a68184a",
+                "parent": "ID_d978ba0beaeb"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -251,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,13 +279,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9835e40327cb99dc",
+  "active": "e1397f29617cce58",
   "lastOpenFiles": [
-    "NPCs/Harry Johnson.md",
-    "NPCs/Theresa Falco.md",
-    "NPCs/James Beck.md",
+    "Santiago.md",
+    "Becket.md",
+    "Toni's Schemes.md",
     "Session Notes/Session 4.md",
     "Timeline.md",
+    "NPCs/Harry Johnson.md",
+    "Party/Fizbal.md",
+    "NPCs/Theresa Falco.md",
+    "NPCs/James Beck.md",
     "Session Notes/Session 3.md",
     "NPCs/Edith Falco.md",
     "Faction Graph.canvas",
@@ -280,7 +298,6 @@
     "NPCs/Olivia Wilderson.md",
     "NPCs/Nathan Atlantic.md",
     "Party/Kimberly.md",
-    "Toni's Schemes.md",
     "Factions/Holdens Inc..md",
     "Party/Toni.md",
     "NPCs/Joseph Savino.md",
@@ -292,10 +309,7 @@
     "Factions",
     "NPCs/Dennis Johnson.md",
     "Factions/Draconic Order Of Justice.md",
-    "Party/Fizbal.md",
-    "NPCs/Delaware.md",
     "NPCs",
-    "NPCs/Maisie.md",
     "Party",
     "Session Notes"
   ]

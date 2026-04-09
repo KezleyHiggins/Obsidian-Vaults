@@ -570,6 +570,40 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Murder Weapon For Roman Stolen From Fae Court",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 5,
+            "year": 2018
+          },
+          "id": "ID_796a3bf91aca",
+          "note": null,
+          "category": "miscellaneous-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "When In Rome… Schemed Completed!",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 5,
+            "year": 2018
+          },
+          "id": "ID_79b8787b4bdb",
+          "note": null,
+          "category": "miscellaneous-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_aac8aae80838",
