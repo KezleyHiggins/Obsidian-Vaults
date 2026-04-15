@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,11 +279,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e1397f29617cce58",
+  "active": "060581f590b91c8c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Toni's Schemes.md",
     "Santiago.md",
     "Becket.md",
-    "Toni's Schemes.md",
     "Session Notes/Session 4.md",
     "Timeline.md",
     "NPCs/Harry Johnson.md",
@@ -308,7 +309,6 @@
     "NPCs/The Circumstance.md",
     "Factions",
     "NPCs/Dennis Johnson.md",
-    "Factions/Draconic Order Of Justice.md",
     "NPCs",
     "Party",
     "Session Notes"
