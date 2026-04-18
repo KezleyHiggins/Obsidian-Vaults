@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "401fecf1b7444606",
+            "id": "d3a895775684f2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Local Area/Barcombe.md",
+                "file": "Heart Of The Marches/Session 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barcombe"
-            }
-          },
-          {
-            "id": "f68f08bd2f32f1eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heart Of The Marches/Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2"
-            }
-          },
-          {
-            "id": "51d0afa28c10aef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Local Area/Tomb Of The Hilltop Harriers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tomb Of The Hilltop Harriers"
-            }
-          },
-          {
-            "id": "33a42f541b038a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Skills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Session 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Arkir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,14 +164,22 @@
               "icon": "lucide-list",
               "title": "Outline of The Adventure"
             }
+          },
+          {
+            "id": "98e69e50666e72d8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,17 +189,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f68f08bd2f32f1eb",
+  "active": "d3a895775684f2f5",
   "lastOpenFiles": [
-    "The Local Area/Barcombe.md",
-    "Heart Of The Marches/Session 2.md",
+    "Heart Of The Marches/Session 3.md",
+    "Heart Of The Marches/Session 4.md",
     "The Local Area/Tomb Of The Hilltop Harriers.md",
-    "Rules/Skills.md",
     "Heart Of The Marches/Session 1.md",
     "HotM - Villains.md",
+    "Rules/Skills.md",
+    "Rules/Quick Reference.md",
+    "Heart Of The Marches/Session 2.md",
+    "The Local Area/Barcombe.md",
+    "Vandt Lore/Glasghoul.md",
+    "Hilltop Fortress.md",
+    "Canonical Eight.md",
     "Stuff/Pictures/crossbow.png",
     "Stuff/Pictures/flat-hammer.png",
     "Stuff/Pictures/dragon-shield.png",
@@ -255,14 +227,9 @@
     "Stuff/Discord Stuff/Discord Main Lore.md",
     "Rules/Five Room Dungeon.md",
     "Untitled.base",
-    "Rules/Quick Reference.md",
     "Stuff/Pictures/Conditions.png",
-    "Rules/Backgrounds.md",
-    "Rules/Stats.md",
     "Stuff",
     "Heart Of The Marches",
-    "Vandt Lore/Artifacts/Magic Swords.md",
-    "Vandt Lore/Artifacts/The Broken Blade.md",
     "Stuff/Pictures/Kobold Stats.png",
     "Stuff/Pictures/Thorn Stats.png",
     "Stuff/Pictures/Pudge Stats.png",

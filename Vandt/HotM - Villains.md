@@ -1,9 +1,29 @@
 #Barcombe #HotM
-#### Chief Arkir the 'All-Eater'
+#### The All-Eater
 
-Chief Arkir is a kobold that has grown to the size of an Ogre. He is not terribly smart, but is fiercely loyal and truly believes that his peoples' best chances at getting everything they want (read: all the food) is by taking this village.
+The All-Eater is a kobold that has grown to the size of an Ogre. He is not terribly smart, but is fiercely loyal and truly believes that his peoples' best chances at getting everything they want (read: all the food) is by taking this village.
 
 He is in charge through biggest-kobold-diplomacy. He has been convinced to join the Pale Fist because he believes that once they have their piece of the pie carved out for them that they'll be able to turn their warband-tribe into a home-tribe.
+
+
+
+---
+###### The All-Eater
+Level 2 Solo Giant Kobold
+HP: 75
+Armour: Medium
+Good Save: STR
+Bad Save: INT
+
+**ACTIONS:**
+- Move & Smack: Move 8, attack for 1d8+2. On Damage: Prone
+- Grab & Throw: 1d8+2, On Damage: Target thrown at another hero within 6 spaces. Both make DC 12 DEX save or take 1d8+2 and Prone.
+
+**BLOODIED:** 
+At 37HP, All-Eater can throw up in response to all the damage. All PCs within 10 spaces are poisoned, and will recover in three turns, or right away if they spend their whole turn throwing up and recovering.
+
+**DYING:**
+All-Eater is dying! 20 more damage and he dies. Until then, he can move 6 spaces and use Grab & Throw each turn.
 
 ![[Pudge Stats.png]]
 
