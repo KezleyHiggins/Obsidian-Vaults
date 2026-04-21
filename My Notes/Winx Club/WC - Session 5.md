@@ -1,6 +1,4 @@
-#WinxClub
-
-I am playing the character [[Astria Galastia]]
+#WinxClub 
 
 ### Shutdown Party Escapades
 
@@ -13,11 +11,9 @@ Viola alleges that we needed to make sure that we can always can lift spirits. I
 **"I'm not like other girls, I have Hemorrhoids."** <-- On the front
 On the back there's a little cupid holding its finger to its lips and its butt turned towards the viewer.
 
-Get as many numbers as possible.
-
 I spent a Player Intrusion to get 5 numbers from a group of dorky guys, getting my first taste of being a hot, popular girl.
 
-I tried to get the number of a guy, whose girlfriend defensively confronted me and then also dropped water on me and it embarrassed me. Viola went out and lead me away, said some mean girl stuff, and rearranged my outfit and said that I reminded her of herself. 
+I tried to get the number of a guy, whose girlfriend defensively confronted me and then also dropped water on me and it embarrassed me. Viola went out and lead me away, said some mean girl stuff, and rearranged my outfit and said that I reminded her of herself.
 
 She also alluded to Mina being bad news bears for Hearth, but I defended her, and I think I will continue to do it even if it causes trouble between us. Her aid thus meant that people weren't still talking about me, and I was able to get bigly numbers thereafter by being dressed up as a mini her.
 

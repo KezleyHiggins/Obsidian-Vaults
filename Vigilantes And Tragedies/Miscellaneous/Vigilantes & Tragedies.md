@@ -12,3 +12,13 @@ Here are the feelings, in no particular order, that I've come back when trying t
 - The superheroes are Vigilantes, they don't act like cops and have different limitations.
 - History is never that long ago, there should always be a feeling when a new threat emerges that if [[The Flash]] hadn't happened, we'd probably have the people we need to stop this instantly.
 - When a hero not in the focus shows up, they're either focused on a different piece of heroism themselves, or they've suffered too many tragedies to continue the fight.
+
+###### Lessons From Campaigns
+
+- A strong context for who the heroes are, and why they're together is important.
+	- [[Goodnight, California]] and [[Otherworlds]] did this really well.
+- The city that the game takes place in, is important and should be a character.
+	- [[Otherworlds]] had a fun setting but it wasn't as present, [[Goodnight, California]] was better.
+- There should always be ways that the heroes can team up and work together.
+	- [[Goodnight, California]] had this in that they helped each other standardly, the strong shared premise of all the heroes in [[Otherworlds]] meant that EVERYONE could always think of a way that their abilities would help out.
+- The heroes need to have things that they can fight that feel like they **need** heroes to fight them.
