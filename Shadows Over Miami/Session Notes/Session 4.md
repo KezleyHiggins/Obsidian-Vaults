@@ -11,7 +11,7 @@ Making the identity for [[Toni's Schemes]]
 - It will require a part of yourself or comparable sacrifice to complete
 - Will have 2 weeks of recovery time
 
-Someone who is performing their own investigation in the Winter Fae is [[George]]
+Someone who is performing their own investigation in the Winter Fae
 
 The man who Fizbal is grabbing the identity of is related to [[Delaware]], who was renamed to [[Santiago]] after being convinced to join him as an apprentice.
 
