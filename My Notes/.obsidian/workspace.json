@@ -11,10 +11,14 @@
             "id": "ee28039c3827bdba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Greatest Games.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Greatest Games"
             }
           }
         ]
@@ -179,13 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "4d3180e1f449925e",
+  "active": "ee28039c3827bdba",
   "lastOpenFiles": [
+    "Greatest Videos.md",
+    "Greatest Games.md",
+    "Quotes.md",
+    "Winx Club/WC - Session 6.md",
+    "Winx Club/Astria Galastia.md",
     "Winx Club/WC - Session 5.md",
+    "Images/Shutdown Party Outfit.png",
     "Winx Club",
     "Winx Club/Winx Club - Planetary Homecoming.md",
-    "Winx Club/Astria Galastia.md",
-    "Images/Shutdown Party Outfit.png",
     "Images",
     "Welcome.md"
   ]

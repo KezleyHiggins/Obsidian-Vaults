@@ -8,7 +8,7 @@ From Asterope
 
 **Winxtegram Handle:**`_the_astria_`
 
-**XP:** 2
+**XP:** 3
 **Major:** Magic Defense
 **Minor:** Dance & Arts
 
@@ -80,3 +80,5 @@ I HAVE THE BIGGEST CRUSH ON HER
 She’s not exactly been super nice to me the first time, showed some territoriality over Hearth clearly being into Mina
 
 When I tried out for the Cheerleaders she allowed me in and continued to show proper mean girl behaviour. She made it clear that on us joining we need to show up to some thing at the Shutdown Party
+
+She put her lipstick on my lips after she dressed me up to look like her.
