@@ -36,3 +36,21 @@ Got into the alchemy, was a bright rat, realized that he can actually manipulate
 **Threads:**
 - Old criminal contacts coming to head 
 - Showing more [[Biggest Rat Diplomacy]] in front of them?
+
+
+### Arkir
+
+**HP:** 7/LVL
+**Saves:** STR+
+**Wounds:** 4 (four slots, dies when receiving the fourth wound)
+
+**Abilities:** 
+	**Companion.** Can interpose for friends (but you'll never hear the end of it!)
+	**Pocket Sand!** (1/encounter) force an adjacent enemy to reroll an attack with disadvantage.
+
+**Actions:**
+	**Stab!** 1d4 (Advantage vs Distracted Targets) On Crit: +LVL Damage (Instead of rolling Additional Dice)
+	**Tough Little Guy** While Dying, taking damage causes 1 Wound (instead of 2) and critical hits inflict 2 Wounds (instead of 3).
+
+**Dying:**
+	**I'm too young to die!** When Arkir drops to 0 HP, he can instantly feign his death by falling prone. All enemies are fooled, though if they may be able to figure out he's faking it's a DC 14 WIS save for them.
