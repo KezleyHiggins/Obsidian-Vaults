@@ -1,7 +1,7 @@
 Part of an org that's a group of secret immortals who are dragons
 Not explicitly evil
 
-## [[Draconic Order Of Justice]]
+## [[The Draconic Order Of Justice]]
 
 - Order Of Secret Immortals (Dragons)
 - Charge - protecting and policing their members

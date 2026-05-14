@@ -8,3 +8,13 @@ Assets:
 +Knight Errants
 +Dream Sorcerers
 +Stolen Shadows
+
+
+###### Assets -> Strength Go Up
+- [ ] First
+- [ ] Second
+- [ ] Third
+###### Recruitment -> Size Go Up
+- [x] First
+- [ ] Second
+- [ ] Third
