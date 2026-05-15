@@ -52,6 +52,9 @@ The Circumstance recently came to owe Toni a Debt.
 
 Max is an old friend of Morris, one armed, used to be a detective before being kicked out three years ago. He is also the person who opposes the business of Toni's, the person who is a threat to his business. 
 
+Broad Summaries:
+
+Here's a list of things that I need to make sure that I remember. I introduced the NPC Max, who is the rival to Tony and is also a formal former co-worker of Morris. I also introduced Jem, which I do have noted above, which is the the leader of a new mortalis faction called the Purple Label. I need to remember that the pressure for the Spring Countess to find someone to blame is the term I'm using, but she wants to believe that that person actually did it, but she needs to find someone who killed her son. And the the werewolves are going to be the focus of next session, and they are presently in like a warlike mood, so they should be pretty aggressive. I should make sure that I remember that.
 
 ##### Next Session:
 
