@@ -15,7 +15,7 @@ From Asterope
 Type
 
 - Far Step 
-- Push swapped for Weighty
+- ~~Push~~ swapped for Weighty
 - Onslaught
 - Ward
 
