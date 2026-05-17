@@ -1,0 +1,3 @@
+#FactionMove 
+
+When a faction tries to goad an opponent into making a mistake, roll with the difference between the two factions’ Strengths. On a 10+, the target takes the bait; the instigating faction strikes a terrible blow, destroys a vulnerable asset, or undermines a key relationship or alliance. On a 7-9, the target avoids the worst of the trap, but causes enough trouble to embarrass themselves; they take a -1 ongoing to Strength until they reestablish their reputation. On a miss, the target sees through the scheme; someone from the targeted faction comes to one of the PCs for help turning the tables against the instigating faction.
