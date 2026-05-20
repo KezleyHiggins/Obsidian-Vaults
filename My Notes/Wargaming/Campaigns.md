@@ -1,0 +1,2 @@
+
+Reading through a selection of games, I'm trying to get a broader idea of what a campaign in the sense meant in war gaming means. So far it seems that there is an agreement that the state of your army or war band or gang or whatever you want to call it remains between matches and the players are all drawing on a pool. So when we're on game ten, I'm using the same army or I'm I'm playing with the same hand as in game one, but there can be things that change that hand between game one and game ten.
