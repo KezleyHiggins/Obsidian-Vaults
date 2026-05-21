@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wargaming/Campaigns.md",
+                "file": "Wargaming/Thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaigns"
+              "title": "Thoughts"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "ee28039c3827bdba",
   "lastOpenFiles": [
-    "Wargaming/Thoughts.md",
+    "Earthborne Rangers.md",
     "Wargaming/Campaigns.md",
+    "Wargaming/Thoughts.md",
     "Winx Club/WC - Session 8.md",
     "Wargaming",
     "Winx Club/WC - Session 7.md",
@@ -194,7 +195,6 @@
     "One Page Rules/Human Defense Force.md",
     "Winx Club/Astria Galastia.md",
     "One Page Rules",
-    "Untitled.md",
     "Winx Club/WC - Session 6.md",
     "Pasted image 20260511195607.png",
     "Pasted image 20260511195549.png",
