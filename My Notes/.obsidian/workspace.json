@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wargaming/Thoughts.md",
+                "file": "Fiction/OPR Writing Jam #14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thoughts"
+              "title": "OPR Writing Jam #14"
+            }
+          },
+          {
+            "id": "347fc5d2db58fafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiction/Short Story Emote Inspo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Short Story Emote Inspo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +198,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee28039c3827bdba",
+  "active": "347fc5d2db58fafd",
   "lastOpenFiles": [
+    "Fiction/OPR Writing Jam #14.md",
+    "Fiction/Short Story Emote Inspo.md",
+    "Fiction",
+    "Wargaming/Thoughts.md",
     "Earthborne Rangers.md",
     "Wargaming/Campaigns.md",
-    "Wargaming/Thoughts.md",
     "Winx Club/WC - Session 8.md",
     "Wargaming",
     "Winx Club/WC - Session 7.md",
