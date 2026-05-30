@@ -100,4 +100,9 @@ Lady shows up at station and is revealed to be a type of cyborg or something.
 **Review: 2/5**
 Difficult to read, story very predictable, relation to the theme very unclear.
 
-###### 15.
+###### 15. The Faithful Tyrant’s Promise by Arnold Darkridge
+
+Follows a Dwarven leader who rebels against them being slaves to orcs by using the powers of havoc and then goes further to say that he will even enslave other dwarves and kills his loyal soldier showing that he is completely lost Arthas-style.
+
+**Review: 3/5**
+Not terrible, very predictable, didn't really do too much interesting and the premise isn't really integrated in a very meaningful way.
