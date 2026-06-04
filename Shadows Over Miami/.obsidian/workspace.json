@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "Session Notes/Session 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8"
+              "title": "Session 9"
             }
           }
         ]
@@ -236,12 +236,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9edca32ee6f5900e",
+  "active": "6fa048a3fe9664be",
   "lastOpenFiles": [
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 9.md",
     "Session Notes/Session 7.md",
     "Party/Toni.md",
     "Session Notes/First Faction Turn.md",
-    "Session Notes/Session 8.md",
     "Factions/Holdens Inc..md",
     "Factions/Victims of Miami.md",
     "Session Notes/Session 6.md",
@@ -265,7 +266,6 @@
     "Pasted image 20260507211529.png",
     "Pasted image 20260507211451.png",
     "Clayframe.md",
-    "Session Notes/Session 4.md",
     "Faction Graph.canvas",
     "Factions",
     "NPCs",
