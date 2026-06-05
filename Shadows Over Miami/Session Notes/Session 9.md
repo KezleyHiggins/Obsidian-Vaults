@@ -1,13 +1,24 @@
 
-Morris had to give up a CI to get information about where Gravel was by getting his name - but in the end he didn't end up giving the name away.
+[[Special Agent Morris]] had to give up a CI to get the information on where Gravel was (by getting his name) — but in the end he didn't actually give the name away.
 
+[[Toni]] and [[Anouk]] confronted each other. Toni agreed to help Anouk look into the situation with the Golem and the missing witch.
 
-So the session has begun and the initial things that has happened is that Tony and Anouk confronted each other and Tony agreed to help Anouk look into the situation with the Golem and the missing witch. then Kimberly went and spoke to Dennis after seeing that he's like living well and the conversation didn't go particularly good, but they have a lot of suspicions now about Dennis's new income stream. Then Morris went to go and look into Gravel because he was in the hospital. succeeded a bunch of like coin clips that I did to see what was happening, and essentially he got there, was able to get the information right as the golem was coming in to kill Gravel. the Golem interrupted by Morris saying like a little th thing to them took on Teresa's affectations and came in and pretended to be her, where they then had a back and forth where Morris seemed to be briefly fooled that that wasn't the golem and gave away a lot of his affectations and manners of speech. Then they c called for the nurses, to which then Morris had to go and lock the door. They then had a fight. Morris fucked off the golem, but the golem was able to get the mannerisms and then escape after throwing Morris over a bunch of stuff which if he didn't let the doctors in would have resulted in Gravel dying because they had to like re put in the saline solutions, intubate him, et cetera, et cetera. And the golem got away.
+[[Kimberly]] went and spoke to [[Dennis Johnson]] after seeing that he's living well now. The conversation didn't go particularly well, and they now have a lot of suspicions about Dennis's new income stream.
 
-Anouk is taking position on a rooftop, when the opposition shows up remember that they can use Watch them Closely to get extra info
+Morris went to look into Gravel, who was in the hospital. He succeeded on a bunch of coin flips and got there to find the information right as the Golem was arriving to kill Gravel.
 
-Kimberly is waiting for Toni to show up
+The Golem, interrupted by Morris, took on [[Theresa Falco]]'s affectations and came in pretending to be her. In the back-and-forth that followed, Morris was briefly fooled into thinking it wasn't the Golem and gave away a lot of his own affectations and manners of speech.
 
-Morris is going to use his tracking through the city move to track the golem after it jumped out of the window (Hard to Shake)
+They called for the nurses, so Morris had to go and lock the door, and a fight broke out. Morris beat the Golem, but it managed to copy his mannerisms and then escaped — throwing Morris over a bunch of equipment on its way out. Had Morris not let the doctors back in, Gravel would have died (they had to re-insert the saline, intubate him, etc.). The Golem got away.
 
-Becket is going to be in the car with them protecting Princess (the Winter heir who is being set to marry Nathan Atlantic)
+<hr>
+
+##### Where things stand:
+
+Anouk is taking position on a rooftop. When the opposition shows up, remember she can use **Watch Them Closely** to get extra info.
+
+Kimberly is waiting for Toni to show up.
+
+Morris is going to use his tracking-through-the-city move (**Hard to Shake**) to track the Golem after it jumped out of the window.
+
+[[Becket]] is in the car with them, protecting Princess (the [[Winter Court]] heir being set to marry [[Nathan Atlantic]]).

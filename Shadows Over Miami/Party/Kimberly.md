@@ -1,4 +1,6 @@
 
+Played by Elza.
+
 Born in 1967 - died in 1985 (18 Years Old)
 Valley girl vibes
 
@@ -8,7 +10,7 @@ Witness to her death (her best friend who got away) and is now living as a subur
 Beloved possession from her youth (her car that she got for her 16th birthday) passed to a new owner (decide for her) 
 A space you used to live or work, abandoned by the world (Martin’s place, abandoned by the mundane world)
 
-Maisie and her younger sibling Denis (37) don't know that she’s a ghost
+Her younger brother Dennis ([[Dennis Johnson]], now in his late 30s/40s) and her friend [[Maisie]] don't know that she’s a ghost
 
 Haunting for 33 years died in 1985 died on her 18th birthday in a nightclub
 Bit volatile 
@@ -31,3 +33,15 @@ Someone broke into Maisie’s house and he did have a gun but he’s in the psyc
 A woman named Denice is the girlfriend to the guy who owns the car that is her anchored 
 
 The person who owns it is a POWER fuckboy called Nathan Atlantic
+
+---
+
+### Closely Associated NPCs
+- [[Dennis Johnson]] — her younger brother (her anchor); the suspect accountant she confronted in Session 9
+- [[Maisie]] — her friend and witness to her death (her anchor)
+- [[Nathan Atlantic]] — owns her old car, one of her anchors
+- [[Joseph Savino]] — she owes him a Debt; her leak to him reached Edith Falco
+- [[Delaware]] — she owes him a Debt after her trauma attack
+- [[Noel]] — owes her a Debt
+- [[Ulysses the Undying]] — she sold her soul to him in Session 8
+- [[Toni]] — she runs the front at his pizza place
