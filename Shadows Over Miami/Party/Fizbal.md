@@ -40,3 +40,13 @@ Is looking after [[Maisie]] and [[Dennis Johnson]] from [[Kimberly]]’s story
 ## Weaknesses
 - It always lacks a key piece or ingredients
 - And it contains secrets unfamiliar even to you
+
+---
+
+### Closely Associated NPCs
+- [[Delaware]] — the Status-3 NPC who forced a ward on him; they are supernaturally linked
+- [[Santiago]] — his apprentice, trained by him (and resembling Delaware)
+- [[Maisie]] and [[Dennis Johnson]] — under his protection (from Kimberly's story)
+- [[Christopher Matthews]] — went to him for the staff/identity deal; the meeting blew up
+- [[Edith Falco]] — has been blowing up his phone over Theresa's case
+- [[Harry Johnson]] — killed him alongside Anouk in Session 2
