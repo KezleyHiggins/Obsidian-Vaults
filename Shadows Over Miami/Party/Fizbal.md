@@ -2,6 +2,8 @@ Alex (Fizbal) - Wizard (Power)
 
 They have a status-3 NPC who forced a ward on them. The Ward's name is [[Delaware]].
 
+They are now a Status-2 member of the Power Faction
+
 Why do they need protection
 
 They are the secret child of an influential and powerful enemy

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a5d42d6e9617e8",
+        "id": "ab4abd327d28a3da",
         "type": "tabs",
         "children": [
           {
-            "id": "6fa048a3fe9664be",
+            "id": "1af6a382d0822ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Kimberly.md",
+                "file": "Session Notes/Session 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kimberly"
+              "title": "Session 10"
             }
           }
         ]
@@ -236,12 +236,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6fa048a3fe9664be",
+  "active": "1af6a382d0822ffd",
   "lastOpenFiles": [
     "Party/Fizbal.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
+    "Party/Kimberly.md",
     "Factions/Winter Court.md",
     "Factions/The City Guard.md",
-    "Session Notes/Session 9.md",
     "Party/Special Agent Morris.md.tmp.28644.fec765bf6063",
     "NPCs/Gloves.md",
     "NPCs/Gloves.md.tmp.28644.c15e140ad50c",
@@ -272,8 +274,6 @@
     "Seize By Force.md",
     "Factions/The City Council.md",
     "Factions/The Draconic Order Of Justice.md",
-    "Offer Passage.md",
-    "Goad An Opponent.md",
     "Pasted image 20260507211529.png",
     "Pasted image 20260507211451.png",
     "Faction Graph.canvas"
