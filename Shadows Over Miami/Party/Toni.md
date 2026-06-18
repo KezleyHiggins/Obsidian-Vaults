@@ -8,13 +8,14 @@ Providing news, gossip and rumour to the city at large
 
 Investment:
 A skilled bodyguard dedicated solely to your security (Fae Knight? He will decide)
-Magical deadzone secured by wards and ritual
+	- 1950s style greaser Spring Fae (something to do with fire) named Donnie 
+Magical dead zone secured by wards and ritual
 
 Problems:
 A demonic ex-liege seeking your immediate return
 A dangerous competitor edging in on your market
 
-He escaped servitude by creating an identity document that makes the contract in hell invalid until thats lapsed
+He escaped servitude by creating an identity document that makes the contract in hell invalid until that's lapsed
 
 Been in the city for a long time (100+)
 
