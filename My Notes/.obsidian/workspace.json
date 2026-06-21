@@ -11,10 +11,14 @@
             "id": "10099c2adab62425",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cypher/New Edition Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "New Edition Notes"
             }
           }
         ]
@@ -181,6 +185,16 @@
   },
   "active": "10099c2adab62425",
   "lastOpenFiles": [
+    "Pasted image 20260621235957.png",
+    "Pasted image 20260621235539.png",
+    "Pasted image 20260621234952.png",
+    "Pasted image 20260621234545.png",
+    "Pasted image 20260621234521.png",
+    "Pasted image 20260621234215.png",
+    "Pasted image 20260621233951.png",
+    "Pasted image 20260621233719.png",
+    "Cypher/New Edition Notes.md",
+    "Cypher",
     "Winx Club/WC - Session 12.md",
     "Winx Club/WC - Session 11.md",
     "Winx Club/WC - Session 10.md",
@@ -212,7 +226,6 @@
     "Images/Shutdown Party Outfit.png",
     "Winx Club",
     "Winx Club/Winx Club - Planetary Homecoming.md",
-    "Images",
-    "Welcome.md"
+    "Images"
   ]
 }
