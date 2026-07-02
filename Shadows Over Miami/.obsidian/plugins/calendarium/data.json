@@ -282,7 +282,7 @@
         "locations": []
       },
       "current": {
-        "day": 26,
+        "day": 27,
         "month": 5,
         "year": 2018
       },
@@ -683,6 +683,23 @@
           },
           "id": "ID_5a6bbac85a59",
           "note": "Session Notes/Session 10.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Dennis is seized by an appirition of death, the 7 Day Counter begins",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 5,
+            "year": 2018
+          },
+          "id": "ID_c8db49bbca0b",
+          "note": "Session Notes/Session 12.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,
