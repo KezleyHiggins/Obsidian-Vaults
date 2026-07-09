@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 12.md",
+                "file": "Session Notes/Session 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12"
+              "title": "Session 13"
             }
           }
         ]
@@ -236,11 +236,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9edca32ee6f5900e",
+  "active": "1af6a382d0822ffd",
   "lastOpenFiles": [
-    "Session Notes/Session 11.md",
     "Party/Kimberly.md",
+    "Session Notes/Session 13.md",
     "Session Notes/Session 12.md",
+    "Session Notes/Session 11.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 8.md",
@@ -273,7 +274,6 @@
     "Factions/The Spring Court.md",
     "Develop Infrastructure.md",
     "Factions/Open Door Associates.md",
-    "Search The City.md",
     "Pasted image 20260507211529.png",
     "Pasted image 20260507211451.png",
     "Faction Graph.canvas"
