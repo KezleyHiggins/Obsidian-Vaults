@@ -1,0 +1,1 @@
+Tracking the racist guy is going to be hard, but Viola is going to get the information and will get back to me within the week. She ALSO is going to get back to me about the date proposition 👀
