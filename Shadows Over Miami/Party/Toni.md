@@ -29,13 +29,30 @@ His bodyguard is only known as [[Gloves]] — but Gloves is not who he wanted. T
 
 ---
 
+### Where He Stands (as of Session 15)
+
+His demonic ex-liege has been pressing for his return and has threatened to burn down the pizzeria (Session 6). [[Fizbal]] has since warded the pizzeria against scrying (Session 12).
+
+**Session 10:** Toni flubbed his way out of a confrontation and teleported away, but [[Nathan Atlantic]] now knows who he is and may come to extort him.
+
+**Session 13:** Nathan and [[Becket]] confronted him for his **left hand** — Nathan had negotiated phrasing with the demon that owns Toni's contract, letting him hand over Toni's "left sinister hand" in exchange for a favour. Toni teleported away; his van was wrecked (front left wheel exploded). [[Gloves]] was abandoned in the escape, his fate unknown.
+
+**Session 14:** **Donnie** is done with Toni for abandoning Gloves, and is still trying to work out where Gloves ended up.
+
+---
+
 ### Closely Associated NPCs
-- [[Becket]] — the exiled Winter Fae (formerly Roman) he forged an identity for; Toni holds a Debt on him
+- [[Becket]] — the exiled Winter Fae (formerly Roman) he forged an identity for; Toni holds a Debt on him, and Becket has since sold him out, confronting him alongside Nathan Atlantic
 - [[Olivia Wilderson]] — CEO of Open Door Associates; Toni cancelled a Debt he owed her
 - [[Andrea Rojas]] — Toni owes her a Debt for info on Open Door Associates
 - [[Harry Johnson]] — owed a Debt by Toni for ruining his scam (now dead)
 - [[The Circumstance]] (Digby) — recently came to owe Toni a Debt
-- [[Max]] — his dangerous business rival (the weakness he picked); now employs the Fae Knight Toni wanted as bodyguard
+- [[Max]] — his dangerous business rival (the weakness he picked); employs the Fae Knight Toni wanted, and sold the pizzeria's location to Nathan Atlantic
 - [[Gem]] — Status-3 leader of the rival Purple Label faction; saddled him with Gloves after his failed bodyguard move
-- [[Gloves]] — the bodyguard he ended up with (not the one he wanted)
+- [[Gloves]] — the bodyguard he ended up with (not the one he wanted); abandoned in Session 13, whereabouts unknown
 - [[Kimberly]] — runs the front at his pizza place (his abandoned haunt is her anchor)
+- [[Nathan Atlantic]] — knows who Toni is and is hunting his left hand to settle a bargain with Toni's demon
+- [[Anouk]] — openly working to discredit him since Session 12
+- **Donnie** — the 1950s greaser Spring Fae bodyguard he invested in; now done with Toni for abandoning Gloves
+- **His demonic ex-liege / patron** — seeking his immediate return, threatening the pizzeria
+- **The scammed wizard** — a wizard he once scammed over food, who still holds the grudge

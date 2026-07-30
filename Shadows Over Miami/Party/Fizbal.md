@@ -45,10 +45,25 @@ Is looking after [[Maisie]] and [[Dennis Johnson]] from [[Kimberly]]’s story
 
 ---
 
+### Where He Stands (as of Session 15)
+
+He unlocked the ability to disguise people through an advanced Let It Out (Session 8).
+
+He sent [[Santiago]] to collect up the Golem goop after the Clayframe went down (Session 11); [[Delaware]] ended up collecting it (Session 12).
+
+He cast a spell on the pizzeria protecting it from being scried (Session 12).
+
+**Session 14:** He withheld information, and as a result **both [[Santiago]] and [[Delaware]] are owed Debts by him**. He wants to get [[Toni]] and [[Kimberly]] into the sanctum, and to look into the Autumn Fae and why they are looking for Delaware.
+
+---
+
 ### Closely Associated NPCs
-- [[Delaware]] — the Status-3 NPC who forced a ward on him; they are supernaturally linked
-- [[Santiago]] — his apprentice, trained by him (and resembling Delaware)
+- [[Delaware]] — the Status-3 NPC who forced a ward on him; they are supernaturally linked. **Owed a Debt by Fizbal** for withholding information (Session 14)
+- [[Santiago]] — his apprentice, trained by him (and resembling Delaware). **Owed a Debt by Fizbal** for withholding information (Session 14)
 - [[Maisie]] and [[Dennis Johnson]] — under his protection (from Kimberly's story)
 - [[Christopher Matthews]] — went to him for the staff/identity deal; the meeting blew up
 - [[Edith Falco]] — has been blowing up his phone over Theresa's case
 - [[Harry Johnson]] — killed him alongside Anouk in Session 2
+- [[Clayframe]] — the Golem whose grenade he lifted away in Session 5; he has been gathering its remains
+- **The Autumn Fae** — looking for Delaware, for reasons Fizbal wants to uncover
+- **The druid (Delaware's father)** — creator of the Clayframe; tracked and killed in Session 10, though he was working with someone else

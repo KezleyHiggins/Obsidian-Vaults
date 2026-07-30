@@ -5,9 +5,9 @@ Max is owed aa debt by Flynt for providing the name of Bill (the Swamp Wizard) K
 
 One day has passed since Dennis was yoinked
 
-They finally looked at the gun, it is super expensive and somewhat senitent, doesnt like anouk and morris, morris wants to put in a request to get some items out of the locker  
+They finally looked at the gun, it is super expensive and somewhat sentient, doesn't like Anouk and Morris, Morris wants to put in a request to get some items out of the locker  
 
-Captain Goldscale is Morris' boss
+Captain(?) Goldscale is Morris' boss
 
 Anouk has called the Council to see if they have anything about the owner of the gun, and anything about the secret society
 

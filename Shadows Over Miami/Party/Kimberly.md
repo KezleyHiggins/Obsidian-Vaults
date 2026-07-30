@@ -36,12 +36,30 @@ The person who owns it is a POWER fuckboy called Nathan Atlantic
 
 ---
 
+### The Clock on Dennis (as of Session 15)
+
+[[Dennis Johnson]] went fully into [[Open Door Associates]] and was in their apartment building when the Werewolves struck it publicly (Session 12). A Werewolf gunman (road-name **Brute**) killed the two vampires with him and hunted him through the building.
+
+Dennis was then **taken by an apparition of death**. Kimberly has seven days to bring the promised life — [[Nathan Atlantic]] — to the space between living and dying. **A life must be provided before 11am on Tuesday, 3rd July 2018.**
+
+As of Session 15 roughly one day and some hours have passed since Dennis was "yoinked", leaving about **five days and a bit** on the clock.
+
+[[Anouk]] has agreed to help but wants time to find someone more deserving than Nathan; the rest of the party intend to go behind her back and use Nathan regardless (Session 13).
+
+In Session 14 she attacked **Donnie**, [[Toni]]'s Spring Fae bodyguard, and now owes him a Debt.
+
+---
+
 ### Closely Associated NPCs
-- [[Dennis Johnson]] — her younger brother (her anchor); the suspect accountant she confronted in Session 9
-- [[Maisie]] — her friend and witness to her death (her anchor)
-- [[Nathan Atlantic]] — owns her old car, one of her anchors
-- [[Joseph Savino]] — she owes him a Debt; her leak to him reached Edith Falco
+- [[Dennis Johnson]] — her younger brother (her anchor); confronted in Session 9, now taken by the death-apparition
+- [[Maisie]] — her friend and witness to her death (her anchor); sells crystals and tarot at an occult shop, husband is a corporate guy
+- [[Nathan Atlantic]] — owns her old car, one of her anchors; also the life promised to the death-apparition
+- [[Joseph Savino]] — she owed him a Debt, which he called in; her leak to him reached Edith Falco
 - [[Delaware]] — she owes him a Debt after her trauma attack
 - [[Noel]] — owes her a Debt
 - [[Ulysses the Undying]] — she sold her soul to him in Session 8
 - [[Toni]] — she runs the front at his pizza place
+- [[Max]] — had a brief tiff with her during the Session 8 escape; smoothed over
+- **Donnie** — Toni's 1950s greaser Spring Fae bodyguard; she attacked him and **owes him a Debt** (Session 14)
+- **Brute** — the Werewolf gunman who shot up the Open Door apartment building and hunted Dennis
+- **The apparition of death** — holds Dennis; wants a life delivered by 11am, Tuesday 3rd July 2018
