@@ -706,6 +706,40 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Dennis was saved",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 5,
+            "year": 2018
+          },
+          "id": "ID_f9aae9c8e95b",
+          "note": "Session Notes/Session 16.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Guy (Werewolf) was murdered by Kimberly & Anouk to bring Dennis back",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 5,
+            "year": 2018
+          },
+          "id": "ID_b9fb0a992a5a",
+          "note": "Session Notes/Session 16.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_aac8aae80838",
