@@ -2,7 +2,7 @@ One-armed former detective. An old friend and former DOJ partner of [[Special Ag
 
 He is the rival to [[Toni]]'s business — the dangerous competitor edging in on his market, a weakness Toni picked when he created his business (introduced Session 7).
 
-When Toni's faction move to secure a Fae Knight bodyguard failed, the Fae Knight Toni had wanted — the one who had shot at him — went to work for **Max** instead. (Toni was left with [[Gloves]], offered up by [[Gem]].)
+When Toni's faction move to secure a Fae Knight bodyguard failed, the Fae Knight Toni had wanted — the one who had shot at him — went to work for **Max** instead. (Toni was left with [[Gloves]], offered up by [[NPCs/Gem]].)
 
 Is reportedly dating a "Theresa" (possibly [[Theresa Falco]]).
 

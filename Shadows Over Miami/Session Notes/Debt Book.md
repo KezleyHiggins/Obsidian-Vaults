@@ -107,5 +107,5 @@ These aren't Debts and can't be paid off like one, but they're the heaviest thin
 - Who cashed in Fizbal's forgotten Debt during the First Faction Turn?
 - Which vampire, if any, is owed for [[Harry Johnson]]'s death?
 - Do Harry Johnson's Debts (owed by both Morris and Toni) pass to [[Open Door Associates]], or die with him?
-- Toni's Session 7 scheme carried the complication *"A Status-3 NPC of your Circle offers you a Debt for your services"* — presumably [[Gem]]. Was that Debt ever taken, and by whom on whom?
+- Toni's Session 7 scheme carried the complication *"A Status-3 NPC of your Circle offers you a Debt for your services"* — presumably [[NPCs/Gem]]. Was that Debt ever taken, and by whom on whom?
 - What does [[The Circumstance]] want in exchange for the two Debts he's carrying — and does he know he's working both Toni and Morris at once?

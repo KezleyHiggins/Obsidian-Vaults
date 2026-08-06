@@ -5,3 +5,5 @@ After losing one of her realtors, [[Harry Johnson]], she decided to push for fre
 Her recent loss had her sharp: she saw through all of [[Holdens Inc.]]'s traps when they tried to **Goad** the Open Door vampires, which is why Holdens now sees the werewolves' rivals as worth getting rid of.
 
 [[Toni]] cancelled a Debt he owed her as a payout from his scheme ([[Toni's Schemes]]).
+
+Olivia is owed a debt by [[Kimberly]] for helping with the action they took during [[Second Faction Turn]]
