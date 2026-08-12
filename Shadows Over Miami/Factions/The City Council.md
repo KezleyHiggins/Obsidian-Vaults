@@ -1,14 +1,14 @@
 Circle - Power
 Size - 2 (Thirty or so members)
-Strength - 4 (Devoted and organized)
+Strength - 3 (Disciplined, but often tempered by conflict)
 
-Goal: “Find A New Peace Plan”
+Goal: “Reestablish Them Being In Charge”
 
 Assets: 
 +Eyes Everywhere
 +Diplomatic Envoys
-+Inner-City Stronghold
-
++Inner-City Stronghold ~ (Weakened hold per [[Second Faction Turn]])
++Blasting Batons ~
 ###### Assets -> Strength Go Up
 - [ ] First
 - [ ] Second
