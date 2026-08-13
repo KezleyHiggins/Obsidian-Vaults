@@ -282,7 +282,7 @@
         "locations": []
       },
       "current": {
-        "day": 18,
+        "day": 19,
         "month": 6,
         "year": 2018
       },
@@ -751,6 +751,23 @@
           },
           "id": "ID_ca1b090839e8",
           "note": "Session Notes/Second Faction Turn.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Auction (Toni's Scheme)",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_db8b783b39c8",
+          "note": null,
           "category": null,
           "sort": {
             "timestamp": 5e-324,

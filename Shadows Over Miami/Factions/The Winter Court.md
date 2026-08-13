@@ -1,5 +1,5 @@
 Circle - Wild
-Size - 3 (60 or so members)
+Size - 4 (60 or so members)
 Strength - 3 (Disciplined, but often tempered by conflict)
 
 Goal: “Close Ranks”
@@ -14,6 +14,6 @@ Assets:
 - [ ] Second
 - [ ] Third
 ###### Recruitment -> Size Go Up
-- [x] First
-- [x] Second
+- [ ] First
+- [ ] Second
 - [ ] Third

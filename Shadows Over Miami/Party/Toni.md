@@ -21,6 +21,27 @@ Been in the city for a long time (100+)
 
 He considers the fae his family more so than demons
 
+# Schemes
+
+**Scheme 1**
+Mortalis, providing news, gossip and rumour to the city at large. 
+- You must fool or deceive a powerful and dangerous NPC.
+- You need to wait for a predetermined time or event.
+
+An auction is taking place on the 27th of July that is selling a collection of "fictional" manuscripts owned by a renowned supernatural reporter. A partner wants to know whether or not what's being sold is real or is a fake. 
+
+This event is invite only, and is managed by an (Aware) rich lady named Giovanna who is known for having very proficient private security, and was also a former employer of Gloves.
+
+**Scheme 2**
+Night, creating forgeries, disguises and stolen identities. 
+- You require an unreliable or untrustworthy co-conspirator (Bill? The wizard they were gna ice?)
+- You have attracted the attention of dangerous opposition (The Devil wants to disrupt this to deny Toni power)
+
+A set of perfectly identical vests that are used by the [[Holdens Inc.]] are wanted by the [[Open Door Associates]] so that if they ever need to they could orchestrate a false flag attack and get them targeted. 
+
+Bill is needed since he was a prospect and still has enough iconography to help with the creation of the stuff, but is very unavailable and gets into trouble.
+
+# Stuff that's kinda unimportant rn
 There’s a fae who he turns to for help when his agents can’t reach it (come up with) 
 
 He scammed a wizard who came in for food who is important who still holds a grudge

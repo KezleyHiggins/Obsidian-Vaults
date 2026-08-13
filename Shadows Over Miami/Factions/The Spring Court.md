@@ -16,5 +16,5 @@ Assets:
 - [ ] Third
 ###### Recruitment -> Size Go Up
 - [x] First
-- [ ] Second
+- [x] Second
 - [ ] Third

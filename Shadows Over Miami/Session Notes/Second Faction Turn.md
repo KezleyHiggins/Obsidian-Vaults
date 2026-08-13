@@ -65,6 +65,7 @@ Toni rolled a 5, which means that he got a Miss. Meaning:
 
 > An NPC interrupts your day-to-day business to **cash in a debt** you hoped they had forgotten about, mixing you up in a mess within your Circle you'd rather have avoided.
 
+
 #recap
 Someone inside of Wild who was involved in the name change for Toni is going to cash in a debt. This is going to be a construct, who is stitched together from bodies and gave up their chance to gain a new true name in favour of Toni, and still yet hasn't managed to get a new name. They are cashing in their debt with Toni to have him come and serve as their advocate in a case by the City Guard stating they aught to be struck down in order to protect the supernatural from leaking too much into Mortalis. This Construct is named [[Penelope]]
 
@@ -139,6 +140,8 @@ For the Marshal Forces move, Morris got a 11 which is a full hit. Meaning:
 > On a hit, you can give a Debt to a powerful NPC your Circle— MC’s choice—to reduce your target’s Strength or weaken their hold on a specific asset, your choice. 
 
 He is reducing the Strength of The City Council. They drop from 4 to 3. 
+
+Yakov is also the clear option here.
 
 
 # Phase 2: Faction Moves
@@ -241,6 +244,38 @@ They got an 11 which is a full hit.
 
 They want to Search the City for signs related to who killed the Prince in-between continuing their arms race with the Winter Court
 
+Develop Infrastructure (Arms Race)
+They got a 14, which is a full hit. They pick two, and get a messy opportunity. They committed their +Dream Sorcerers.
+
+- Recruit
+- Secure Asset
+
+> A messy opportunity for growth also arises, if they seize it before the time passes they can mark recruitment.
+
+What is this messy opportunity? Perhaps trying to publicly include the Autumn Court as a lesser partner in its weave of city politics?
+
+Search The City (For the Autumn Court)
+They got a 13, which is a full hit. Meaning:
+
+> They uncover some crucial details, enough to ask a PC or notable NPC to pursue things further.
+
+#recap 
+The Spring Court recruited some peoples and settled their vulnerable assets, but also have become aware of the existence of the Autumn Court wishing to establish themselves, who the presumptive head is, and wish to make contact which they will contact a PC about.
+
+
 ##### The Winter Court | Develop Infrastructure & Offer Passage
 
 They wish to bring in a figure to help keep their new marriage pact safe in-between them continuing the arms race with the Winter Court.
+
+Develop Infrastructure (Arms Race)
+They got a 9, which is a hit. They pick two. They committed their +Changeling Spies.
+- Recruit
+- Secure Asset
+
+Offer passage (For the Winter Princess)
+They got a 12, which is a full hit. Meaning:
+
+> The traveler exits and are beyond reach until they choose to return.
+
+#recap 
+Winter Court is now a huge faction in terms of conjoined members and also - seeing as the danger for the Winter Princess is still fairly likely and they have another marriage brewing - they have funneled her out of the city in the hopes that she may yet still be either pregnant or just in general be safe.
