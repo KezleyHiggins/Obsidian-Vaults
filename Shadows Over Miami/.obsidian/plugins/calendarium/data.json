@@ -774,6 +774,23 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Golem should be completed if consistent work done",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_79bb4b1bcbea",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_aac8aae80838",

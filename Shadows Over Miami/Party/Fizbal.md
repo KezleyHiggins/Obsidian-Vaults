@@ -43,6 +43,16 @@ Is looking after [[Maisie]] and [[Dennis Johnson]] from [[Kimberly]]’s story
 - It always lacks a key piece or ingredients
 - And it contains secrets unfamiliar even to you
 
+
+### Projects
+
+Golem: 
+*(intending to have Bill work on things passively if not covered in downtime)*
+- You'll require the services of a druid to complete it
+- Its going to take you a month of work (20 days of work)
+- ~~Your sanctum lacks a battery for the golem add this and you’ll be able to complete it~~
+
+
 ---
 
 ### Where He Stands (as of Session 15)

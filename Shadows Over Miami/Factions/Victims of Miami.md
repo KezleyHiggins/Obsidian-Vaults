@@ -1,11 +1,11 @@
 Circle - Night
 Size - 4 
-Strength - 2
+Strength - 2 (Tumultuous, but capable of uniting)
 
 Assets:
 ~~+Spectral Council~~
 +Immortal Champion
-+Band Of Heroes
++Band Of Heroes (About 20 ghosts not including [[Noel]])
 
 [[Noel]] leads the Band of Heroes, and they are lead as a faction by [[Ulysses the Undying]].
 ###### Assets -> Strength Go Up
@@ -16,3 +16,12 @@ Assets:
 - [ ] First
 - [ ] Second
 - [ ] Third
+
+
+
+### Band of Heroes Members
+
+Lead by [[Noel]]
+
+- Benny
+- Big Joe
