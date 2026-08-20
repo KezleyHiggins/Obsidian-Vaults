@@ -42,3 +42,4 @@ This song's to you, from them.
 ```
 Havana from Camila Cabello begins to play. The camera leaves the studio for the final time in this interlude.
 ```
+

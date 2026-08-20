@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recaps/Darkly Dreaming Scene 1.md",
+                "file": "Session Notes/Session 19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darkly Dreaming Scene 1"
+              "title": "Session 19"
             }
           },
           {
@@ -190,7 +190,7 @@
                 "calendar": "ID_aac8aae80838",
                 "ephemeral": {
                   "viewing": {
-                    "day": 19,
+                    "day": 18,
                     "month": 6,
                     "year": 2018
                   },
@@ -252,14 +252,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "668adefe5247f2c0",
+  "active": "9edca32ee6f5900e",
   "lastOpenFiles": [
     "Session Notes/Session 18.md",
+    "Session Notes/Session 19.md",
+    "Recaps/Darkly Dreaming Scene 1.md",
     "NPCs/Secret Cabal.md",
     "Reuben Bates.md",
     "Session Notes/Second Faction Turn.md",
     "Recaps/Second Faction Turn Recap.md",
-    "Recaps/Darkly Dreaming Scene 1.md",
     "Factions/Autumn Court.md",
     "Rowan.md",
     "Party/Toni.md",
@@ -283,7 +284,6 @@
     "Factions/The City Council.md",
     "Factions/The City Guard.md",
     "Factions/Open Door Associates.md",
-    "Factions/Victims of Miami.md",
     "Session Notes/Debt Book.md.tmp.32192.031bfa112e4f",
     "Party/Fizbal.md.tmp.32192.1fc0ab1a7e47",
     "Party/Toni.md.tmp.32192.5903547e88f5",
