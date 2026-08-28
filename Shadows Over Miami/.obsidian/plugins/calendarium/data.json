@@ -282,7 +282,7 @@
         "locations": []
       },
       "current": {
-        "day": 19,
+        "day": 20,
         "month": 6,
         "year": 2018
       },
@@ -784,6 +784,74 @@
             "year": 2018
           },
           "id": "ID_79bb4b1bcbea",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Explosion in Purple Label Territory",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_4b8ac9f82928",
+          "note": "Session Notes/Session 20.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Max voted in as head of City Guard",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_a9ba7a48e85a",
+          "note": "Session Notes/Session 20.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ghosts reclaim sanctuary from Wizards, kill Pyromancer member and leave head at tower",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_3aaa0888db5a",
+          "note": "Session Notes/Session 20.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Date with Hazel",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_ea0b582948c8",
           "note": null,
           "category": null,
           "sort": {
