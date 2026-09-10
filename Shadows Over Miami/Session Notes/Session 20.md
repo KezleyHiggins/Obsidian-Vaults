@@ -20,4 +20,4 @@ Talk to Toni re: Reuben Bates (OR if not present, hit the streets to find the fu
 Buying a new car.
 
 **Kimberly:**
-Kimberly is going to look into a new job for [[Dennis Johnson]]. 
+Kimberly is going to look` into a new job for [[Dennis Johnson]]. 

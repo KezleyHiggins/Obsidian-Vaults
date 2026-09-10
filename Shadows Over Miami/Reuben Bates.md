@@ -1,1 +1,3 @@
 Guy who shot the prince
+
+He is not known for a particular specific weapon. He is known for having a big propensity towards just doing the job rather than having some sort of trade-off that this tainted position gives him. He also is known for caring a lot about his idea that he is seen as a killing machine and people that say that he cannot fight well earn his ire and he's willing to reinforce it. He cares a lot about that reputation
