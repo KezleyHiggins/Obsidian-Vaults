@@ -11,6 +11,9 @@ After they were safe, the group declared (and he agreed) that his familiarity wi
 
 My AC with Scale Mail is 17 because of 2 from DEX and 1 from the cloak.
 
+My Spell Save is 8 + 3 + 3+ so 14
+My Spell Attack is +6
+
 **Stats At Level 5**
 
 | Stat | Value | Modifier |
