@@ -192,8 +192,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_d978ba0beaeb",
-                "child": "ID_caf95a68184a"
+                "id": "ID_d978ba0beaeb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -212,7 +211,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_aac8aae80838",
                 "id": "ID_caf95a68184a",
                 "parent": "ID_d978ba0beaeb"
               },
