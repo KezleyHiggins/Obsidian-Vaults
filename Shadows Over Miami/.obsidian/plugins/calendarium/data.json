@@ -859,6 +859,23 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Toni must return the car to Nathan or ELSE",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 6,
+            "year": 2018
+          },
+          "id": "ID_0878691ae82a",
+          "note": "Session Notes/Session 22.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_aac8aae80838",

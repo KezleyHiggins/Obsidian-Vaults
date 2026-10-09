@@ -1,4 +1,16 @@
 
+
+Gloves is becoming a knight, rejoins Toni and then a debt is owed to the Countess
+Donnie is free of being Toni's bodyguard, but all is fair
+Toni (in the effort to normalize relations between Nathan and him) has to bring the car back within 3 days
+
+Flynt is saying that the Autumn Court's presence is good bc they're a balancing force on the powers within the city, now he owes a debt to her for normalizing these relations.
+
+Anouk is going to see Morris with Delaware
+
+----
+
+ 
 Things to touch on:
 
 - Mike Davidson pushing for the beef between Nathan Atlantic and Tony to be squashed
@@ -11,6 +23,8 @@ Things to touch on:
 - The peace terms spoken out between the Autumn Court and the Winter Court through [[Flynt Locke]].
 - I think Anouk will want to be on the hunt for Reuban with Morris?
 
+#### Anouk
+Looking into Reuban Bates
 
 #### Morris
 
