@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "winter court",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,7 @@
                 "calendar": "ID_aac8aae80838",
                 "ephemeral": {
                   "viewing": {
-                    "day": 20,
+                    "day": 21,
                     "month": 6,
                     "year": 2018
                   },
@@ -240,8 +240,13 @@
   },
   "active": "27702cf3342eb29e",
   "lastOpenFiles": [
-    "Session Notes/Session 22.md",
+    "Party/Flynt Locke.md",
     "Session Notes/Session 23.md",
+    "Session Notes/Session 21.md",
+    "Session Notes/Second Faction Turn.md",
+    "Session Notes/Session 22.md",
+    "Diatribes.md",
+    "NPCs/Max.md",
     "Factions/The Winter Court.md",
     "Session Notes/Session 20.md",
     "Factions/The Spring Court.md",
@@ -249,7 +254,6 @@
     "Party/Special Agent Morris.md",
     "Winter Court.md",
     "NPCs/Becket.md",
-    "Session Notes/Session 21.md",
     "Session Notes/Session 19.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -264,10 +268,6 @@
     "Session Notes/Debt Book.md",
     "Rowan.md",
     "Session Notes/First Faction Turn.md",
-    "Diatribes.md",
-    "Session Notes/Session 8.md",
-    "Party/Fizbal.md",
-    "NPCs/Secret Cabal.md",
     "Pasted image 20260820195129.png",
     "Recaps",
     "Misc/Pasted image 20260507211529.png",
