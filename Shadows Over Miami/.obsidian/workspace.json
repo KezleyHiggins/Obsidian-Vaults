@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Session 23"
             }
+          },
+          {
+            "id": "76c2dcfa907ecaa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diatribes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diatribes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,10 +253,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "27702cf3342eb29e",
+  "active": "76c2dcfa907ecaa1",
   "lastOpenFiles": [
-    "Party/Flynt Locke.md",
     "Session Notes/Session 23.md",
+    "Party/Flynt Locke.md",
     "Session Notes/Session 21.md",
     "Session Notes/Second Faction Turn.md",
     "Session Notes/Session 22.md",
