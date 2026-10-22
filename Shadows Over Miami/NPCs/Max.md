@@ -7,3 +7,5 @@ When Toni's faction move to secure a Fae Knight bodyguard failed, the Fae Knight
 Is reportedly dating a "Theresa" (possibly [[Theresa Falco]]).
 
 **Session 8:** During the party's ambush of Gravel, Max shot Gravel in the head. He had a brief tiff with [[Kimberly]] as the party fled, but it smoothed over. He produced a photo of Theresa crying next to Gravel and implied that he'd had Gravel killed — [[Special Agent Morris]] then took that photo and sent it upstairs to have the case concluded.
+
+Worked with Morris for 14 years.
