@@ -14,7 +14,6 @@ Not explicitly evil
 - Never lie about your identity or purpose
 - Always thwart the enemies of your masters
 
-
 ### Legendary Weapon
 Excalibur, like actually the real [[Excalibur]], advances keep your cool
 

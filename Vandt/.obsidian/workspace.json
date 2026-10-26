@@ -55,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,8 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           }
         ],
@@ -203,8 +206,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "calendarium:Open Calendarium": false
+      "bases:Create new base": false
     }
   },
   "active": "d3a895775684f2f5",
