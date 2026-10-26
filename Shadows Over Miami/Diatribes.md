@@ -1,6 +1,9 @@
+
+### Why do you do what you do, detective?
+
 [[Hazel]]
 
-I think its something my son would have wanted me to do. I lost him due to some political manoeuvring by my Monarch years ago. I wasn't even there to stop it. Time moved on. The worlds kept revolving. And I'm stuck in the same room, staring at an empty crib.
+I think its something my son would have wanted me to do. I lost him due to some political maneuvering by my Monarch years ago. I wasn't even there to stop it. Time moved on. The worlds kept revolving. And I'm stuck in the same room, staring at an empty crib.
 
 And I see him there.
 
